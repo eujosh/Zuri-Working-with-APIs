@@ -27,3 +27,4 @@ class Link(models.Model):
         
         # Complete the save operation   
         super().save(*args, **kwargs)
+        
